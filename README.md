@@ -84,6 +84,7 @@ To change the current working directory, enter the new directory path in the "Ch
 ## Resources
 
 - [GitHub Project](https://github.com/RootShelll/wwwolf-php-webshell)
+- [Web Sites](https://r00t-shell.com/wwwolfs-php-web-shell/)
 - [Official PHP Documentation](https://www.php.net/)
 
 ## Conclusion
