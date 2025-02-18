@@ -23,7 +23,7 @@
 Download the script from the GitHub repository:
 
 ```
-https://github.com/WhiteWinterWolf/wwwolf-php-webshell/blob/master/wwwolf-php-webshell.php
+https://raw.githubusercontent.com/RootShelll/wwwolf-php-webshell/refs/heads/main/wwwolf-php-webshell.php
 ```
 
 ### Step 2: Upload to the Server
